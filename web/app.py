@@ -9,7 +9,8 @@ def mainmenu():
     return """
     <html>
     <body>
-    <center><h1>Hello World! from AWS CodeDeploy. 2020-10-02 by Piper wave4 Miho</h1><br/>
+    <center><h1>Hello World! from AWS CodeDeploy. </h1><br/>
+    <h2>by Piper for Partner Miho</h2>
     </body>
     </html>"""
 
